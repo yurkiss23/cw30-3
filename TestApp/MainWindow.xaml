@@ -12,6 +12,7 @@
         </Menu>
         <Button x:Name="btnInput" Content="Push" HorizontalAlignment="Left" Margin="51,90,0,0" VerticalAlignment="Top" Width="75" Click="BtnInput_Click"/>
         <TextBox x:Name="txtInput" HorizontalAlignment="Left" Height="23" Margin="51,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217"/>
+        <Calendar HorizontalAlignment="Left" Margin="429,62,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
