@@ -24,5 +24,10 @@ namespace TestApp
         {
             InitializeComponent();
         }
+
+        private void BtnInput_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Push!");
+        }
     }
 }
